@@ -1,6 +1,6 @@
 name = "Aria2_jll"
 uuid = "9ab3bdc3-1250-5043-8fac-ac7e82d2cbc9"
-version = "1.37.0+0"
+version = "1.37.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

@@ -1,288 +1,288 @@
 [[Aria2]]
 arch = "aarch64"
-git-tree-sha1 = "0dae7b113417ee4bd7e8b01ce385503ccd20473f"
+git-tree-sha1 = "4c2e66fe73af3b913e7a0b48e134ab9569b3ebce"
 os = "macos"
 
     [[Aria2.download]]
-    sha256 = "d75c5faa57e9a5a7f45478c3b7440e96f0959c9479172eced816ff7a7b5e980e"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "399a08278b0574bd2cd835d5ebd441c2e331e8fae0f0f476d570ff0f5846c5a7"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.aarch64-apple-darwin.tar.gz"
 [[Aria2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d94c9337449df55e10d3801f89a42a8bd9471776"
+git-tree-sha1 = "62d6f2d6d7e0909d5668e119fd23977fb6df16e5"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "ec6402a4ffa3b7eb039efcfedb9385d1df992488e7c9001189dfbe978ce70caa"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5638dd4e742abd046ce9a38bf8a8e336b9896f56def712e5338d2b57dfaa0c29"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[Aria2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "26df413b69071bf024b699608dbf5a1f8efa8832"
+git-tree-sha1 = "55bc8715fe78de2052a8b2c2e42fe63136ec84fb"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "17c143d984740917971592b78f09f4a54cbf6bc31aa9f2a927d38391bddd1b60"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1560b2dd4e84d08fda648f0087efae589e6d49a5637f4bdc35a61cffce9860a8"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Aria2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bdf6ae672feb94f5abf31a261abcb23f9651bfd8"
+git-tree-sha1 = "873cac457206f07f2a7aeed5bb2d86d4f885d752"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "265540ed8613fde603a8202f78f970f7f1c589c58e0df62276f24f4973617879"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "9ab2ee6864bf3ed11edd5c9cb3d582b068f5c4531ca7c0af5622b6bac1299815"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.aarch64-linux-musl-cxx03.tar.gz"
 [[Aria2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9802befc0297ed24b58f58b2d58790ac9d39b65"
+git-tree-sha1 = "7cfb8d835d71dc002b2b1f48c99a8d1684c5ced5"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "8053d714f3ecefa411b7fa47f65919dad9938c4e3115c54d16cd83a8aa47288e"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "7784ea82917b2f15c89991ac43a348ba7bb7954e09e772f5bcef82ad76bbde37"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.aarch64-linux-musl-cxx11.tar.gz"
 [[Aria2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c53110228b3323e90047805748bff307e93ecb83"
+git-tree-sha1 = "e895d15f81586176782ee2ab55c4d47e9526b10c"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "1e5516b47496862d2a47a920da337aee1c75fef10b1d4d8cf7ff7cb86d9723b5"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "ff650e14cfed41be84e55a63449b2c3e634ba4d74a1fcc3680073db0409fa3c6"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Aria2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c310409f6742ee751f4422da7947be6f0d07e6f2"
+git-tree-sha1 = "03bb4aa1c78554bff05949ed50583ec1c6148bb3"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "dc5a69faa03168a685bc431f1a8ac2550dac1b07422c0b0f0db672196e0be07b"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "fc7ed5d80d5dc8463195b4082608f41b7237307bcc690745c4f30cc0c5cc4197"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Aria2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b612125ab91cb0340de4dc2a4108b95351379515"
+git-tree-sha1 = "cf28c020b39f431cee7f127e9b482c594c192e38"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "a6a71c75c54913122f092cf6f724aecadced13422abfec1ef260e15d61e31968"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "39464fccd5b8e21e9e46cb8655056b9401a383727147585197a947024ab12224"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Aria2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d6df2b1e6065b90b7a2cae645ef37e4c636e156"
+git-tree-sha1 = "8f9248c30bb5a0cf1dcdd28c994f66eb20c0475f"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "5f5ce51ff99d20f409a8b01acb7bf515979a2c9a706f46f28dc8e2cdd6194758"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "80722b5810261c014e87120c9a861d948d55fd029b6f950242ead99b423ef636"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Aria2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "10978b5a8521d07e042909d1fed19709eab91057"
+git-tree-sha1 = "aacf682405cbd994eeaa4f4d74df209a9253432f"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "24c076996b734c4bdccf061d993e074f13ce41d7fc0d6b8e7982debefbb4149a"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "0d3d9757fd76376c316c4aac30b0f2a5545b3882f46cc0a1f7d701a3e9ed8320"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Aria2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "da8b9e03943940d9eff5b5018088a623ae3b479c"
+git-tree-sha1 = "619accac7b5e3c3002335d3e4333514c30d4e7c9"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "74c11c551980c6f05874866db4c5c938e17faaa14d1eecce137e0ab4419a6d50"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "c2636dfc924a3ad0c688bdaca189758f774f2cd43703adf9b5ea2176fbf81911"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Aria2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e6f5d2d6628361c23ec1ece09cf021e99e8a4348"
+git-tree-sha1 = "edeb319f3b85bcf4a0c60f2d8a3baf9f498c3f4f"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "78dd02a0bdbd2ea4cd685a4e82f8abc800f5e55599460ab44a9b8ac13f75dc31"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "16fa365a9113127a20846e085289b5279d00d213b80d96d3e2e6bb96c908d0e5"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Aria2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b773f3b6dd2ff7d41abaa3f8f8d527e28a3e250c"
+git-tree-sha1 = "06a3a6a6aabab9b595d2680fe7b728df9e16d761"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "bc7c47655949621e9d4edac0c29d32664eaf7f830dc763669188e91ef47408d3"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "a6162a423bd846ed986512fa76f14ef67cba658b813b1086a9d8e4bd38f4881e"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Aria2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a46b6029215e405f0216f2443e03a526b513d69"
+git-tree-sha1 = "73360375b3a022e8173802aeaa739e6390e8d42e"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "70d6d3b6a0c305e393c2c65867d49899b3b3aeef8d712b6c2a25c99cbc2365a8"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "7bc62dcc9f2f06bf08530fbebece1f09081b7af3ae9215c06de0e8bef811fb41"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.i686-linux-gnu-cxx03.tar.gz"
 [[Aria2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04155a9e68d64b0d2cfadcb627d0a17e9531fcb6"
+git-tree-sha1 = "1dc79eed2e2901bfa0b0c21d77279c3ae80fc0bb"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "eec2fe96cab6b4ba1103ac2ecf8277ef15e1f96eaebc01ff83837fd2645122ba"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "b022ae94c36409001fb4b246e994edd8b7fca9a3cea74a7795766fc50610b05c"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.i686-linux-gnu-cxx11.tar.gz"
 [[Aria2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b7c43ecab1a5190fbdd5d47b0b65010401696a84"
+git-tree-sha1 = "e1fbfc117b25e2bad1f790d229a705c197d7f178"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "d9efcd17361f51a1aaab3146c78471f8b611a7b7987bab26420297de6be41abd"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "732d03a601fc713217fd1ccd511488b2d00721420d85ca8a716e577ead365b4e"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.i686-linux-musl-cxx03.tar.gz"
 [[Aria2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "55231101f5774ef0f13625ac7d76340f8d24fc6d"
+git-tree-sha1 = "969cba5417a4132078026d43e44a6a91883d86ab"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "896c34a762282cebbdada7631910f2349ffa7851086fbfda419b9c1929806a4d"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "29098171c242c3f55e6b494cc1762d876656467fe2eb15e4079ab3a136462eb3"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.i686-linux-musl-cxx11.tar.gz"
 [[Aria2]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "733235af02d9e2950cf8be104af227fb14b1c800"
+git-tree-sha1 = "d192fe3e6366e955ccc8799020f2cd57486510a0"
 os = "windows"
 
     [[Aria2.download]]
-    sha256 = "3ae7f9a16ff4d7248f6e6dd56c09b176bb9b60854c13d565f82aa7ddd1825abf"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "1f83364de193b29d474f106d869ff99f63f5a65e805cd81eb6d12c2c8d390a5d"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.i686-w64-mingw32-cxx03.tar.gz"
 [[Aria2]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c3df3585fb73492a4a53f1cc448d44b87e36fe85"
+git-tree-sha1 = "06c04d6ac846c78ca8d66a450045af5077612524"
 os = "windows"
 
     [[Aria2.download]]
-    sha256 = "4ba7c52b227c4fdb3594cc574d7a0643c821be4dd5e14108ff4808af6aea61ee"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8af80c456b0f3f893cc9baf6e9520d65c15f15634cc39c8952e48b4abd997854"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.i686-w64-mingw32-cxx11.tar.gz"
 [[Aria2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d48e784165a677a4a65041bd2b5304b56b5be26b"
+git-tree-sha1 = "b124fd8548e9e06ed268054210f0981995658515"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "a498a74979581445f02cde652bfee69b91b29d5dab9e2aebe13ec80b4531ee96"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "435897bd35239c1b832ed3cfc322a4df246e459d31430877374c3994b0ed8ea8"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Aria2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2373d4579307364b1663ac5d3a3be12cd8b69c2c"
+git-tree-sha1 = "1ce454b964d2b7d62af46776e43fe23893e955e2"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "70924cf4838cc0df7501879353e95a74e0d233a3272f461470d3ec1ae3e4237a"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "09b5bdaf3d11fe0a15b75cfc4017b2f9f590c9f2e3ace154dc47f15f6d98c991"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Aria2]]
 arch = "x86_64"
-git-tree-sha1 = "8f9482b08ab3a4f8d2f6bf9b02b5f3b3a06a8032"
+git-tree-sha1 = "363abef150cd30e2a569bc4665f37f455f01e3fd"
 os = "macos"
 
     [[Aria2.download]]
-    sha256 = "fc6753627b5e9eb52232e834c58c6d00923b17e3d948a32d650c74b4441bee83"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "7ad31da40e33982d567f6de3f5647ee2ca381f67275eb0504852b7a2f30b118b"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-apple-darwin.tar.gz"
 [[Aria2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "94489a58ff0e057f3c79cbdafb65e3256eef1d6e"
+git-tree-sha1 = "75f67ff4080f557ccc81ec8273d556b1537a8752"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "7de0e35e3a256049d85b1ce88ccc1d354b93b6882a80c7b77b3a5552ea3e8eed"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "0cd8207946d8f1e80102c2a2be332b4ee9b70c9d23a5e69aacbb31522ec0a39e"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Aria2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b5b1c766502841c7a230f2e93d9070003abe584"
+git-tree-sha1 = "5d9a4123a89cfada27f4c1bc1e299ccb654de803"
 libc = "glibc"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "2609ecf20abfcb21e4d2ca19c000b4a41ef054729eb40f5b4c99c7c556bd7b9a"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d44381efa40f35ee4c1faa32797d4d9fb3785138d1addccde42e0b6aac9bc4c2"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Aria2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "900f4fb770c00d52dd80935b7c9310ca07fdddf8"
+git-tree-sha1 = "399cbf9ed32fe554806b4cbc76eb32cafd0e85d8"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "9bcaed7cc1c3c9d18eea7e0643d6f1fc23b65bb69b08413bc724cac9f25c6a59"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "37063c38d28643a0424b4269d34afa85575d775fc90488b3cb64ac31166e3707"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Aria2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb40b768faae98bcdf97daa602aed5367225f510"
+git-tree-sha1 = "a3becd7d1f1236c3478f0cfd1e948735d4c45f83"
 libc = "musl"
 os = "linux"
 
     [[Aria2.download]]
-    sha256 = "470cc049433f8da1e0c74cf0662e51f651e1ea39285491be6e7ad9d46a2b03e8"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "6c39163652fe6a86a49587b94cbe5f1dd9032fd721208538fc03ae25f541bf27"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-linux-musl-cxx11.tar.gz"
 [[Aria2]]
 arch = "x86_64"
-git-tree-sha1 = "0138a156305c25f437545698623f624a4a313cb3"
+git-tree-sha1 = "99963055c3f7a3f473ac536fa286666c7fdc193a"
 os = "freebsd"
 
     [[Aria2.download]]
-    sha256 = "d6f70a73f4ff71aa57fe8d2279fecd64afd39f8d4460e25ec3b6dccbae8fd8e1"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a48c35079bfcaf01dcf2a054647807c0626c4cb346e5ae47d90f0d11765d4a28"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-unknown-freebsd.tar.gz"
 [[Aria2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba3a68fe817452352780c85f47904b2e9d063b59"
+git-tree-sha1 = "496526cd5a8ac1e6d08e28ffbd0e5cb2c86d1617"
 os = "windows"
 
     [[Aria2.download]]
-    sha256 = "29dff06a9593a3cc28f6af9f320acbd896fec58e0413a10454520e39d49cd77a"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a35190193313f77b7d95375bbd2aac064d47a18b7f6c3e86f9d53fab0eab877d"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Aria2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "68ae9427830590f74fcbcba953a0e53170025dee"
+git-tree-sha1 = "a578883bbf29b20628fdf6611825b888077d474f"
 os = "windows"
 
     [[Aria2.download]]
-    sha256 = "aaca7b9550ca8fc67f724dc6321add12f2fa18dc590dbc9d0b252fd7808d0665"
-    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+0/Aria2.v1.37.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "072f43dab7c9f3e4106fe24aeb611f2e85bd0ab72ad4a8eff906ca13d53b967c"
+    url = "https://github.com/JuliaBinaryWrappers/Aria2_jll.jl/releases/download/Aria2-v1.37.0+1/Aria2.v1.37.0.x86_64-w64-mingw32-cxx11.tar.gz"
